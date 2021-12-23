@@ -3,6 +3,9 @@ MPU tester.
 André’s MPU 35 Boot tester is an advanced continuity tester to find faults in locked up bally MPU’s of type _35 and _17
 
 ![Image not visible](images/frontend.jpg)
+![Image not visible](images/continu_tester.jpg)
+
+
 
 
 André’s MPU 35 Boot tester is an advanced continuity tester to find faults in locked up bally MPU’s of type _35 and _17
