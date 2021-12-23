@@ -46,6 +46,6 @@ o	The U6 eprom socket
 •	Check for stuck data bits
 
 
-
+If you really like this:  buymeacoffee.com/andreboot                
 
 
