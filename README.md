@@ -2,7 +2,7 @@
 Bally MPU tester.
 André’s MPU 35 Boot tester is an advanced continuity tester to find faults in locked up bally MPU’s of type _35 and _17
 
-![Image not visible](../master/images/frontend.jpg)
+![Image not visible](images/frontend.jpg)
 
 
 It is made of commodity stuff like: resistors,  dupont wires , arduino mega, and a “led and key” module which can be bought from various sources. 
